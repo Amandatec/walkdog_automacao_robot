@@ -41,7 +41,7 @@ Acesse a documentação do Robot Framework para todos os detalhes [Biblioteca Br
 - Digite o seguinte comando
 
 ```bash
-   rfbrowser initrobot -d ./logs signup.robot
+   robot -d ./logs signup.robot
    ```
 
 ## Documentação
